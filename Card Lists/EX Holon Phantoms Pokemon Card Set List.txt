@@ -1,0 +1,111 @@
+1,Armaldo  (delta species)
+2,Cradily  (delta species)
+3,Deoxys Î´ (Attack Forme)
+4,Deoxys Î´ (Defense Forme)
+5,Deoxys Î´ (Normal Forme)
+6,Deoxys Î´ (Speed Forme)
+7,Flygon  (delta species)
+8,Gyarados  (delta species)
+9,Kabutops  (delta species)
+10,Kingdra  (delta species)
+11,Latias  (delta species)
+12,Latios  (delta species)
+13,Omastar  (delta species)
+14,Pidgeot  (delta species)
+15,Raichu  (delta species)
+16,Rayquaza  (delta species)
+17,Vileplume  (delta species)
+18,Absol
+19,Bellossom  (delta species)
+20,Blaziken
+21,Latias  (delta species)
+22,Latios  (delta species)
+23,Mawile
+24,Mewtwo  (delta species)
+25,Nosepass
+26,Rayquaza  (delta species)
+27,Regice
+28,Regirock
+29,Registeel
+30,Relicanth
+31,Sableye
+32,Seviper
+33,Torkoal
+34,Zangoose
+35,Aerodactyl  (delta species)
+36,Camerupt
+37,Chimecho  (delta species)
+38,Claydol
+39,Combusken
+40,Donphan
+41,Exeggutor  (delta species)
+42,Gloom  (delta species)
+43,Golduck  (delta species)
+44,Holon's Castform
+45,Lairon
+46,Manectric
+47,Masquerain
+48,Persian  (delta species)
+49,Pidgeotto  (delta species)
+50,Primeape  (delta species)
+51,Raichu
+52,Seadra  (delta species)
+53,Sharpedo  (delta species)
+54,Vibrava  (delta species)
+55,Whiscash
+56,Wobbuffet
+57,Anorith  (delta species)
+58,Aron
+59,Baltoy
+60,Barboach
+61,Carvanha  (delta species)
+62,Corphish
+63,Corphish
+64,Electrike
+65,Exeggcute  (delta species)
+66,Horsea  (delta species)
+67,Kabuto  (delta species)
+68,Lileep  (delta species)
+69,Magikarp  (delta species)
+70,Mankey  (delta species)
+71,Meowth  (delta species)
+72,Numel
+73,Oddish  (delta species)
+74,Omanyte  (delta species)
+75,Phanpy
+76,Pichu  (delta species)
+77,Pidgey  (delta species)
+78,Pikachu
+79,Pikachu  (delta species)
+80,Poochyena
+81,Psyduck  (delta species)
+82,Surskit
+83,Torchic
+84,Trapinch  (delta species)
+85,Holon Adventurer
+86,Holon Fossil
+87,Holon Lake
+88,Mr. Stone's Project
+89,Professor Cozmo's Discovery
+90,Rare Candy
+91,Claw Fossil
+92,Mysterious Fossil
+93,Root Fossil
+94,Darkness Energy
+95,Metal Energy
+96,Multi Energy
+97,Dark Metal Energy
+98,Î´ Rainbow Energy
+99,Crawdaunt ex
+100,Mew ex
+101,Mightyena ex
+102,Gyarados â˜†  (delta species)
+103,Mewtwo *
+104,Pikachu *
+105,Grass Energy
+106,Fire Energy
+107,Water Energy
+108,Lightning Energy
+109,Psychic Energy
+110,Fighting Energy
+111,Mew

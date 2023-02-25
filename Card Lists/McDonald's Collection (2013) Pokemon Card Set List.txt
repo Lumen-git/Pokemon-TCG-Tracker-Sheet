@@ -1,0 +1,12 @@
+1,Leafeon
+2,Flareon
+3,Vaporeon
+4,Glaceon
+5,Pikachu
+6,Jolteon
+7,Espeon
+8,Timburr
+9,Umbreon
+10,Scraggy
+11,Zorua
+12,Eevee

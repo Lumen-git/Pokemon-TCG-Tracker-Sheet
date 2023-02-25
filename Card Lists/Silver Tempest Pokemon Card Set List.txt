@@ -1,0 +1,215 @@
+1,Venonat
+2,Venomoth
+3,Spinarak
+4,Ariados
+5,Sunkern
+6,Sunflora
+7,Serperior V
+8,Serperior VSTAR
+9,Petilil
+10,Hisuian Lilligant
+11,Foongus
+12,Amoonguss
+13,Durant
+14,Virizion
+15,Chesnaught V
+16,Radiant Tsareena
+17,Vulpix
+18,Ninetales
+19,Growlithe
+20,Arcanine
+21,Ponyta
+22,Rapidash
+23,Victini
+24,Reshiram V
+25,Fennekin
+26,Braixen
+27,Delphox
+28,Fletchinder
+29,Talonflame
+30,Litten
+31,Torracat
+32,Incineroar
+33,Alolan Vulpix V
+34,Alolan Vulpix VSTAR
+35,Omastar V
+36,Articuno
+37,Wailmer
+38,Wailord
+39,Feebas
+40,Milotic
+41,Snorunt
+42,Glalie
+43,Froslass
+44,Relicanth
+45,Phione
+46,Keldeo
+47,Dewpider
+48,Araquanid
+49,Pikachu
+50,Raichu
+51,Chinchou
+52,Lanturn
+53,Rotom
+54,Emolga
+55,Stunfisk
+56,Zeraora
+57,Regieleki V
+58,Regieleki VMAX
+59,Radiant Alakazam
+60,Drowzee
+61,Hypno
+62,Jynx
+63,Misdreavus
+64,Mismagius
+65,Unown V
+66,Unown VSTAR
+67,Ralts
+68,Kirlia
+69,Gardevoir
+70,Mawile V
+71,Mawile VSTAR
+72,Meditite
+73,Medicham
+74,Chimecho
+75,Sigilyph
+76,Solosis
+77,Duosion
+78,Reuniclus
+79,Elgyem
+80,Beheeyem
+81,Espurr
+82,Meowstic
+83,Swirlix
+84,Slurpuff
+85,Dedenne
+86,Indeedee
+87,Dreepy
+88,Drakloak
+89,Dragapult
+90,Hisuian Arcanine V
+91,Phanpy
+92,Donphan
+93,Baltoy
+94,Claydol
+95,Anorith
+96,Armaldo
+97,Terrakion
+98,Hawlucha
+99,Sandygast
+100,Palossand
+101,Stonjourner
+102,Ursaluna V
+103,Zubat
+104,Golbat
+105,Crobat
+106,Murkrow
+107,Honchkrow
+108,Skuntank V
+109,Croagunk
+110,Toxicroak
+111,Sandile
+112,Krokorok
+113,Krookodile
+114,Mareanie
+115,Toxapex
+116,Morpeko
+117,Beldum
+118,Metang
+119,Metagross
+120,Radiant Jirachi
+121,Ferroseed
+122,Ferrothorn
+123,Klink
+124,Klang
+125,Klinklang
+126,Cobalion
+127,Togedemaru
+128,Magearna V
+129,Dratini
+130,Dragonair
+131,Dragonite
+132,Noibat
+133,Noivern
+134,Zygarde
+135,Regidrago V
+136,Regidrago VSTAR
+137,Smeargle
+138,Lugia V
+139,Lugia VSTAR
+140,Ho-Oh V
+141,Spinda
+142,Swablu
+143,Altaria
+144,Buneary
+145,Lopunny
+146,Archen
+147,Archeops
+148,Rufflet
+149,Hisuian Braviary
+150,Fletchling
+151,Brandon
+152,Candice
+153,Capturing Aroma
+154,Earthen Seal Stone
+155,Emergency Jelly
+156,Forest Seal Stone
+157,Furisode Girl
+158,Gym Trainer
+159,Lance
+160,Leafy Camo Poncho
+161,Primordial Altar
+162,Professor Laventon
+163,Quad Stone
+164,Serena
+165,Unidentified Fossil
+166,Wallace
+167,Worker
+168,Regenerative Energy
+169,V Guard Energy
+170,Serperior V
+171,Chesnaught V
+172,Reshiram V
+173,Alolan Vulpix V
+174,Omastar V
+175,Regieleki V
+176,Unown V
+177,Unown V
+178,Mawile V
+179,Hisuian Arcanine V
+180,Skuntank V
+181,Skuntank V
+182,Magearna V
+183,Regidrago V
+184,Regidrago V
+185,Lugia V
+186,Lugia V
+187,Ho-Oh V
+188,Brandon
+189,Candice
+190,Furisode Girl
+191,Gym Trainer
+192,Lance
+193,Serena
+194,Wallace
+195,Worker
+196,Serperior VSTAR
+197,Alolan Vulpix VSTAR
+198,Regieleki VMAX
+199,Unown VSTAR
+200,Mawile VSTAR
+201,Regidrago VSTAR
+202,Lugia VSTAR
+203,Brandon
+204,Candice
+205,Furisode Girl
+206,Lance
+207,Serena
+208,Wallace
+209,Worker
+210,Serperior VSTAR
+211,Lugia VSTAR
+212,Energy Switch
+213,Gapejaw Bog
+214,Leafy Camo Poncho
+215,V Guard Energy

@@ -1,0 +1,30 @@
+TG1,Parasect
+TG2,Roserade
+TG3,Charizard
+TG4,Chandelure
+TG5,Pikachu
+TG6,Gengar
+TG7,Banette
+TG8,Hisuian Arcanine
+TG9,Spiritomb
+TG10,Snorlax
+TG11,Castform
+TG12,Orbeetle V
+TG13,Orbeetle VMAX
+TG14,Centiskorch V
+TG15,Centiskorch VMAX
+TG16,Pikachu V
+TG17,Pikachu VMAX
+TG18,Enamorus V
+TG19,Gallade V
+TG20,Crobat V
+TG21,Eternatus V
+TG22,Eternatus VMAX
+TG23,Adventurer's Discovery
+TG24,Boss's Orders
+TG25,Cook
+TG26,Kabu
+TG27,Nessa
+TG28,Opal
+TG29,Pikachu VMAX
+TG30,Mew VMAX

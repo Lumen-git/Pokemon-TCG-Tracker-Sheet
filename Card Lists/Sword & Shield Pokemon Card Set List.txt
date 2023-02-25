@@ -1,0 +1,216 @@
+1,Celebi V
+2,Roselia
+3,Roselia
+4,Roserade
+5,Cottonee
+6,Whimsicott
+7,Maractus
+8,Durant
+9,Dhelmise V
+10,Grookey
+11,Grookey
+12,Thwackey
+13,Thwackey
+14,Rillaboom
+15,Rillaboom
+16,Blipbug
+17,Blipbug
+18,Dottler
+19,Orbeetle
+20,Gossifleur
+21,Eldegoss
+22,Vulpix
+23,Ninetales
+24,Torkoal V
+25,Victini V
+26,Heatmor
+27,Salandit
+28,Salazzle
+29,Turtonator
+30,Scorbunny
+31,Scorbunny
+32,Raboot
+33,Raboot
+34,Cinderace
+35,Cinderace
+36,Cinderace
+37,Sizzlipede
+38,Sizzlipede
+39,Centiskorch
+40,Shellder
+41,Cloyster
+42,Krabby
+43,Krabby
+44,Kingler
+45,Goldeen
+46,Goldeen
+47,Seaking
+48,Lapras
+49,Lapras V
+50,Lapras VMAX
+51,Qwilfish
+52,Mantine
+53,Keldeo V
+54,Sobble
+55,Sobble
+56,Drizzile
+57,Drizzile
+58,Inteleon
+59,Inteleon
+60,Chewtle
+61,Drednaw
+62,Cramorant
+63,Snom
+64,Frosmoth
+65,Pikachu
+66,Raichu
+67,Chinchou
+68,Chinchou
+69,Lanturn
+70,Joltik
+71,Galvantula
+72,Tapu Koko V
+73,Yamper
+74,Yamper
+75,Boltund
+76,Boltund
+77,Pincurchin
+78,Morpeko
+79,Morpeko V
+80,Morpeko VMAX
+81,Galarian Ponyta
+82,Galarian Rapidash
+83,Gastly
+84,Haunter
+85,Gengar
+86,Wobbuffet V
+87,Munna
+88,Musharna
+89,Sinistea
+90,Polteageist
+91,Indeedee V
+92,Diglett
+93,Dugtrio
+94,Hitmonlee
+95,Hitmonchan
+96,Rhyhorn
+97,Rhyhorn
+98,Rhydon
+99,Rhyperior
+100,Sudowoodo
+101,Baltoy
+102,Baltoy
+103,Claydol
+104,Regirock V
+105,Mudbray
+106,Mudsdale
+107,Silicobra
+108,Silicobra
+109,Sandaconda
+110,Sandaconda
+111,Clobbopus
+112,Clobbopus
+113,Grapploct
+114,Stonjourner
+115,Stonjourner V
+116,Stonjourner VMAX
+117,Galarian Zigzagoon
+118,Galarian Linoone
+119,Galarian Obstagoon
+120,Sableye V
+121,Skorupi
+122,Drapion
+123,Croagunk
+124,Toxicroak
+125,Nickit
+126,Thievul
+127,Galarian Meowth
+128,Galarian Perrserker
+129,Mawile
+130,Ferroseed
+131,Ferrothorn
+132,Galarian Stunfisk
+133,Pawniard
+134,Bisharp
+135,Corviknight
+136,Cufant
+137,Copperajah
+138,Zacian V
+139,Zamazenta V
+140,Snorlax
+141,Snorlax V
+142,Snorlax VMAX
+143,Hoothoot
+144,Noctowl
+145,Minccino
+146,Minccino
+147,Cinccino
+148,Oranguru
+149,Drampa
+150,Rookidee
+151,Corvisquire
+152,Wooloo
+153,Wooloo
+154,Dubwool
+155,Cramorant V
+156,Air Balloon
+157,Bede
+158,Big Charm
+159,Crushing Hammer
+160,Energy Retrieval
+161,Energy Search
+162,Energy Switch
+163,Evolution Incense
+164,Great Ball
+165,Hop
+166,Hyper Potion
+167,Lucky Egg
+168,Lum Berry
+169,Marnie
+170,Metal Saucer
+171,Ordinary Rod
+172,Pal Pad
+173,Poké Kid
+174,Pokégear 3.0
+175,Pokémon Catcher
+176,Pokémon Center Lady
+177,Potion
+178,Professor's Research
+179,Quick Ball
+180,Rare Candy
+181,Rotom Bike
+182,Sitrus Berry
+183,Switch
+184,Team Yell Grunt
+185,Vitality Band
+186,Aurora Energy
+187,Dhelmise
+188,Torkoal
+189,Lapras
+190,Morpeko
+191,Wobbuffet
+192,Indeedee
+193,Stonjourner
+194,Sableye
+195,Zacian
+196,Zamazenta
+197,Snorlax
+198,Cramorant
+199,Bede
+200,Marnie
+201,Professor's Research
+202,Team Yell Grunt
+203,Lapras VMAX
+204,Morpeko VMAX
+205,Stonjourner VMAX
+206,Snorlax VMAX
+207,Bede
+208,Marnie
+209,Professor's Research
+210,Team Yell Grunt
+211,Zacian V
+212,Zamazenta V
+213,Air Balloon
+214,Metal Saucer
+215,Ordinary Rod
+216,Quick Ball

@@ -1,0 +1,211 @@
+1,Chespin
+2,Fennekin
+3,Froakie
+4,Sylveon
+5,Xerneas
+6,Yveltal
+7,Xerneas EX
+8,Yveltal EX
+9,Garchomp EX
+10,Dragalge
+11,Skiddo
+12,Honedge
+13,Machamp
+14,Trevenant
+15,Slurpuff
+16,Gogoat
+17,Charizard EX
+18,Chesnaught EX
+19,Delphox EX
+20,Greninja EX
+21,Bronzong
+22,Darkrai
+23,Shiftry
+24,Greninja
+25,Krookodile EX
+26,Pyroar
+27,Champions Festival
+28,Venusaur EX
+29,Charizard EX
+30,Blastoise EX
+31,Xerneas
+32,Yveltal
+33,Trevor
+34,Metagross EX
+35,M Metagross EX
+36,Treecko
+37,Torchic
+38,Mudkip
+39,Kingdra
+40,Ditto
+41,Kyogre EX
+42,Groudon EX
+43,Diancie EX
+44,M Diancie EX
+45,Gallade EX
+46,Altaria
+47,Heliolisk
+48,Meowstic
+49,Regirock
+50,Pangoro
+51,Kyogre
+52,Groudon
+53,Sceptile EX
+54,Blaziken EX
+55,Swampert EX
+56,Blissey
+57,Fearow
+58,Malamar
+59,Salamence
+60,Gyarados
+61,Flygon EX
+62,Absol EX
+63,M Absol EX
+64,Rayquaza
+65,Latios
+66,Rayquaza EX
+67,Jirachi
+68,Chesnaught
+69,Rayquaza EX
+70,Tyrantrum EX
+71,Hoopa EX
+72,Latios EX
+73,Rayquaza EX
+74,Reshiram
+75,Palkia
+76,Zekrom
+77,Dialga
+78,Latias
+79,Latios
+80,Black Kyurem
+81,White Kyurem
+82,Regigigas
+83,Arceus
+84,Pikachu EX
+85,Hoopa EX
+86,M Blaziken EX
+87,M Swampert EX
+88,Chespin
+89,Pikachu
+90,Hoopa
+91,Champions Festival
+92,Sableye
+93,Celebi
+94,Trevenant
+95,Pikachu
+96,Umbreon
+97,Aerodactyl EX
+98,M Aerodactyl EX
+99,Aerodactyl Spirit Link
+100,Mewtwo
+101,Mewtwo
+102,Aurorus EX
+103,Mawile EX
+104,M Mawile EX
+105,Mawile Spirit Link
+106,Gyarados EX
+107,Mewtwo EX
+108,Machamp EX
+109,Gyarados
+110,Mew
+111,Celebi
+112,Jirachi
+113,Manaphy
+114,Darkrai
+115,Shaymin
+116,Arceus
+117,Victini
+118,Keldeo
+119,Genesect
+120,Meloetta
+121,Charizard EX
+122,Blastoise EX
+123,Venusaur EX
+124,Pikachu EX
+125,Mewtwo EX
+126,Mew EX
+127,Moltres
+128,White Kyurem
+129,Zygarde
+130,Tyranitar
+131,Pansear
+132,Gastly
+133,Ash-Greninja EX
+134,Empoleon BREAK
+135,Beheeyem BREAK
+136,Noctowl BREAK
+137,Vivillon
+138,Froakie
+139,Floette
+140,Lucario
+141,Rayquaza
+142,Azelf
+143,Magikarp
+144,Yanmega
+145,Volcanion
+146,Clawitzer
+147,Hoopa
+148,Shaymin EX
+149,Xerneas EX
+150,Yveltal EX
+151,Zygarde EX
+152,Zygarde
+153,Ho-Oh
+154,Ho-Oh BREAK
+155,Wobbuffet BREAK
+156,Lugia
+157,Beedrill EX
+158,M Beedrill EX
+159,Beedrill Spirit Link
+160,Black Kyurem
+161,Braixen
+162,Greninja
+163,Weezing
+164,Volcanion
+165,Magearna
+166,M Gengar EX
+167,Garchomp EX
+168,M Garchomp EX
+169,Garchomp Spirit Link
+170,Salamence EX
+171,M Salamence EX
+172,Salamence Spirit Link
+173,Volcanion EX
+174,Pikachu EX
+175,Magearna EX
+176,Champion's Festival
+177,Karen
+178,Absol
+179,Snorlax
+180,Arcanine BREAK
+181,Crobat BREAK
+182,Mandibuzz BREAK
+183,Mewtwo EX
+184,Giratina
+185,Volcanion
+186,Magearna
+187,Celebi
+188,Shaymin
+189,Victini
+190,Manaphy
+191,Keldeo
+192,Mew
+193,Meloetta
+194,Darkrai
+195,Jirachi
+196,Genesect
+197,Arceus
+198,M Camerupt EX
+199,Camerupt Spirit Link
+200,M Sharpedo EX
+201,Sharpedo Spirit Link
+202,Pikachu
+203,Gym Badge (Brock
+204,Gym Badge (Misty
+205,Gym Badge (Lt Surge
+206,Gym Badge (Erika
+207,Gym Badge (Koga
+208,Gym Badge (Sabrina
+209,Gym Badge (Blaine
+210,Gym Badge (Giovanni)
+211,Lucario Spirit Link

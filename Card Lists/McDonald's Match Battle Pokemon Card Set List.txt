@@ -1,0 +1,15 @@
+1,Ledyba
+2,Rowlet
+3,Gossifleur
+4,Growlithe
+5,Victini
+6,Lapras
+7,Pikachu
+8,Chinchou
+9,Flaaffy
+10,Tynamo
+11,Cutiefly
+12,Bewear
+13,Pangoro
+14,Drampa
+15,Smeargle

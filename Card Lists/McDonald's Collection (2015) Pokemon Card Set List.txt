@@ -1,0 +1,12 @@
+1,Treecko
+2,Lotad
+3,Torchic
+4,Staryu
+5,Mudkip
+6,Pikachu
+7,Electrike
+8,Rhyhorn
+9,Meditite
+10,Marill
+11,Zigzagoon
+12,Skitty

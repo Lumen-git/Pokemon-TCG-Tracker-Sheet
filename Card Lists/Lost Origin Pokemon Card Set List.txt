@@ -1,0 +1,217 @@
+1,Oddish
+2,Gloom
+3,Vileplume
+4,Paras
+5,Parasect
+6,Wurmple
+7,Silcoon
+8,Beautifly
+9,Cascoon
+10,Dustox
+11,Seedot
+12,Nuzleaf
+13,Shiftry
+14,Roselia
+15,Roserade
+16,Phantump
+17,Trevenant
+18,Blipbug
+19,Dottler
+20,Orbeetle
+21,Slugma
+22,Magcargo
+23,Torkoal
+24,Litwick
+25,Lampent
+26,Chandelure
+27,Delphox V
+28,Litleo
+29,Pyroar
+30,Poliwag
+31,Poliwhirl
+32,Politoed
+33,Seel
+34,Dewgong
+35,Horsea
+36,Seadra
+37,Kingdra
+38,Luvdisc
+39,Shellos
+40,Finneon
+41,Lumineon
+42,Snover
+43,Abomasnow
+44,Hisuian Basculin
+45,Hisuian Basculegion
+46,Ducklett
+47,Swanna
+48,Kyurem V
+49,Kyurem VMAX
+50,Cramorant
+51,Glastrier
+52,Pikachu
+53,Raichu
+54,Electrike
+55,Manectric
+56,Magnezone V
+57,Magnezone VSTAR
+58,Rotom V
+59,Tynamo
+60,Eelektrik
+61,Eelektross
+62,Clefairy
+63,Clefable
+64,Gastly
+65,Haunter
+66,Gengar
+67,Mr. Mime
+68,Jynx 
+69,Radiant Gardevoir
+70,Sableye
+71,Mawile
+72,Shuppet
+73,Banette
+74,Cresselia
+75,Hisuian Zorua
+76,Hisuian Zoroark
+77,Inkay
+78,Malamar
+79,Comfey
+80,Mimikyu
+81,Spectrier
+82,Enamorus V
+83,Hisuian Growlithe
+84,Hisuian Arcanine
+85,Poliwrath
+86,Machop
+87,Machoke
+88,Machamp
+89,Rhyhorn
+90,Rhydon
+91,Rhyperior
+92,Aerodactyl V
+93,Aerodactyl VSTAR
+94,Sudowoodo
+95,Gligar
+96,Gliscor
+97,Makuhita
+98,Hariyama
+99,Meditite
+100,Medicham
+101,Relicanth
+102,Gastrodon
+103,Mienfoo
+104,Mienshao
+105,Landorus
+106,Binacle
+107,Barbaracle
+108,Carbink
+109,Rockruff
+110,Falinks
+111,Stonjourner
+112,Spinarak
+113,Ariados
+114,Murkrow
+115,Honchkrow
+116,Seviper
+117,Spiritomb
+118,Drapion V
+119,Drapion VSTAR
+120,Darkrai
+121,Inkay
+122,Hoopa
+123,Radiant Hisuian Sneasler
+124,Radiant Steelix
+125,Bronzor
+126,Bronzong
+127,Galarian Stunfisk
+128,Magearna
+129,Galarian Perrserker V
+130,Giratina V
+131,Giratina VSTAR
+132,Goomy
+133,Hisuian Sliggoo
+134,Hisuian Goodra
+135,Hisuian Goodra V
+136,Hisuian Goodra VSTAR
+137,Pidgeot V
+138,Lickitung
+139,Lickilicky
+140,Porygon
+141,Porygon2
+142,Porygon-Z
+143,Snorlax
+144,Aipom
+145,Ambipom
+146,Hisuian Zoroark V
+147,Hisuian Zoroark VSTAR
+148,Bouffalant
+149,Komala
+150,Skwovet
+151,Greedent
+152,Arc Phone
+153,Arezu
+154,Box of Disaster
+155,Colress's Experiment
+156,Damage Pump
+157,Fantina
+158,Iscan
+159,Lady
+160,Lake Acuity
+161,Lost City
+162,Lost Vacuum
+163,Mirage Gate
+164,Miss Fortune Sisters
+165,Panic Mask
+166,Riley
+167,Thorton
+168,Toolbox
+169,Volo
+170,Windup Arm
+171,Gift Energy
+172,Hisuian Electrode V
+173,Delphox V
+174,Kyurem V
+175,Magnezone V
+176,Rotom V
+177,Rotom V
+178,Enamorus V
+179,Aerodactyl V
+180,Aerodactyl V
+181,Gallade V
+182,Drapion V
+183,Galarian Perrserker V
+184,Galarian Perrserker V
+185,Giratina V
+186,Giratina V
+187,Hisuian Goodra V
+188,Pidgeot V
+189,Arezu
+190,Colress's Experiment
+191,Fantina
+192,Iscan
+193,Lady
+194,Miss Fortune Sisters
+195,Thorton
+196,Volo
+197,Kyurem VMAX
+198,Magnezone VSTAR
+199,Aerodactyl VSTAR
+200,Drapion VSTAR
+201,Giratina VSTAR
+202,Hisuian Goodra VSTAR
+203,Hisuian Zoroark VSTAR
+204,Arezu
+205,Colress's Experiment
+206,Fantina
+207,Iscan
+208,Lady
+209,Miss Fortune Sisters
+210,Thorton
+211,Volo
+212,Giratina VSTAR
+213,Hisuian Zoroark VSTAR
+214,Box of Disaster
+215,Collapsed Stadium
+216,Dark Patch
+217,Lost Vacuum

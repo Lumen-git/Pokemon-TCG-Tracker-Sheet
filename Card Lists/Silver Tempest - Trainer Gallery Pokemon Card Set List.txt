@@ -1,0 +1,30 @@
+TG1,Braixen
+TG2,Milotic
+TG3,Flaaffy
+TG4,Jynx
+TG5,Gardevoir
+TG6,Malamar
+TG7,Rockruff
+TG8,Passimian
+TG9,Druddigon
+TG10,Smeargle
+TG11,Altaria
+TG12,Kricketune V
+TG13,Serperior V
+TG14,Blaziken V
+TG15,Blaziken VMAX
+TG16,Zeraora V
+TG17,Mawile V
+TG18,Corviknight V
+TG19,Corviknight VMAX
+TG20,Rayquaza VMAX
+TG21,Duraludon VMAX
+TG22,Blissey V
+TG23,Friends in Galar
+TG24,Gordie
+TG25,Judge
+TG26,Professor Burnet
+TG27,Raihan
+TG28,Sordward & Shielbert
+TG29,Rayquaza VMAX
+TG30,Duraludon VMAX

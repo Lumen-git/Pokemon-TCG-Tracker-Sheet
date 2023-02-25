@@ -1,0 +1,12 @@
+1,Growlithe
+2,Psyduck
+3,Horsea
+4,Pikachu
+5,Slowpoke
+6,Machop
+7,Cubone
+8,Magnemite
+9,Dratini
+10,Chansey
+11,Eevee
+12,Porygon

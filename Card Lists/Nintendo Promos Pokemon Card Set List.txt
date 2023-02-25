@@ -1,0 +1,40 @@
+1,Kyogre ex
+2,Groudon ex
+3,Treecko
+4,Grovyle
+5,Mudkip
+6,Torchic
+7,Treecko
+8,Torchic
+9,Combusken
+10,Mudkip
+11,Marshtomp
+12,Pikachu
+13,Meowth
+14,Latias
+15,Latios
+16,Treecko
+17,Torchic
+18,Mudkip
+19,Whismur
+20,Ludicolo
+21,Jirachi
+22,Beldum
+23,Metang
+24,Chimecho
+25,Flygon
+26,Tropical Wind
+27,Tropical Tidal Wave
+28,Championship Arena
+29,Celebi
+30,Suicune
+31,Moltres ex
+32,Articuno ex
+33,Zapdos ex
+34,Typhlosion
+35,Pikachu Delta Species
+36,Tropical Tidal Wave
+37,Kyogre ex
+38,Groudon ex
+39,Rayquaza ex
+40,Mew

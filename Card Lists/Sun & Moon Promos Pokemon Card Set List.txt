@@ -1,0 +1,251 @@
+1,Rowlet
+2,Litten
+3,Popplio
+4,Pikachu
+5,Snorlax GX
+6,Rockruff
+7,Pikipek
+8,Litten
+9,Togedemaru
+10,Shiinotic
+11,Bruxish
+12,Passimian
+13,Oranguru
+14,Lycanroc GX
+15,Zygarde
+16,Solgaleo GX
+17,Lunala GX
+18,Alolan Sandslash
+19,Oricorio
+20,Mudsdale
+21,Drampa
+22,Rowlet
+23,Litten
+24,Popplio
+25,Lurantis
+26,Tsareena
+27,Turtonator
+28,Vikavolt
+29,Mimikyu
+30,Tapu Koko
+31,Tapu Koko
+32,Tapu Bulu GX
+33,Tapu Koko GX
+34,Bewear GX
+35,Espeon GX
+36,Umbreon GX
+37,Decidueye GX
+38,Incineroar GX
+39,Primarina GX
+40,Jangmo-o
+41,Komala
+42,Cosmog
+43,Alolan Meowth
+44,Togedemaru
+45,Tapu Lele
+46,Seviper
+47,Crabominable
+48,Zygarde
+49,Bewear
+50,Shiny Tapu Koko GX
+51,Alolan Meowth
+52,Golisopod
+53,Dhelmise
+54,Lucario
+55,Decidueye
+56,Tsareena GX
+57,Ho-Oh GX
+58,Necrozma GX
+59,Marshadow GX
+60,Charizard GX
+61,Tapu Bulu
+62,Golisopod GX
+63,Salazzle GX
+64,Silvally
+65,Alolan Raichu
+66,Pheromosa GX
+67,Celesteela GX
+68,Xurkitree GX
+69,Buzzwole GX
+70,Shining Ho-Oh
+71,Kommo-o GX
+72,Alolan Raichu
+73,Salazzle
+74,Regirock
+75,Registeel
+76,Pikachu
+77,Mewtwo
+78,Champions Festival
+79,Shining Celebi
+80,Ho-Oh GX
+81,Pikachu
+82,Shining Lugia
+83,Zorua
+84,Zoroark GX
+85,Marshadow
+86,Pikachu
+87,Latias
+88,Latios
+89,Zoroark
+90,Raichu GX
+91,Silvally GX
+92,Tapu Fini
+93,Marshadow
+94,Wash Rotom
+95,Lucario
+96,Heatran
+97,Gumshoos
+98,Pikachu
+99,Mimikyu
+100,Lucario GX
+101,Dawn Wings Necrozma GX
+102,Dusk Mane Necrozma GX
+103,Lunala GX
+104,Solgaleo GX
+105,Lycanroc
+106,Dawn Wings Necrozma
+107,Dusk Mane Necrozma
+108,Ash's Pikachu
+109,Ash's Pikachu
+110,Ash's Pikachu
+111,Ash's Pikachu
+112,Ash's Pikachu
+113,Ash's Pikachu
+114,Ash's Pikachu
+115,Pheromosa
+116,Xurkitree
+117,Malamar
+118,Lycanroc
+119,Exeggcute
+120,Rockruff
+121,Raikou GX
+122,Zygarde GX
+123,Dawn Wings Necrozma
+124,Dusk Mane Necrozma
+125,Naganadel GX
+126,Ultra Necrozma GX
+127,Alolan Sandslash
+128,Alolan Ninetales
+129,Kyogre
+130,Manectric
+131,Celesteela
+132,Delcatty
+133,Thundurus GX
+134,Tornadus GX
+135,Latias
+136,Latios
+137,Reshiram GX
+138,Zekrom GX
+139,Salamence GX
+140,Salamence
+141,White Kyurem GX
+142,White Kyurem
+143,Moltres
+144,Articuno
+145,Zapdos
+146,Leafeon GX
+147,Glaceon GX
+148,Champions Festival
+149,Suicune
+150,Raikou
+151,Giratina
+152,Tapu Lele
+153,Rowlet
+154,Salandit
+155,Kingdra GX
+156,Dragonite GX
+157,Pikachu
+158,Charizard
+159,Zapdos
+160,Nidoqueen
+161,Jirachi
+162,Pikachu
+163,Mimikyu
+164,Deoxys
+165,Ultra Necrozma
+166,Magikarp & Wailord GX
+167,Celebi & Venusaur GX
+168,Pikachu & Zekrom GX
+169,Eevee & Snorlax GX
+170,Detective Pikachu
+171,Flareon GX
+172,Vaporeon GX
+173,Jolteon GX
+174,Eevee GX
+175,Eevee GX
+176,Eevee GX
+177,Meltan
+178,Melmetal GX
+179,Volcanion
+180,Stakataka
+181,Melmetal
+182,Persian
+183,Pikachu
+184,Eevee
+185,Typhlosion
+186,Flareon
+187,Alolan Marowak GX
+188,Kangaskhan GX
+189,Blastoise GX
+190,Detective Pikachu
+191,Mewtwo & Mew GX
+192,Lucario & Melmetal GX
+193,Garchomp & Giratina GX
+194,Detective Pikachu
+195,Charizard GX
+196,Mewtwo GX
+197,Greninja GX
+198,Bulbasaur
+199,Psyduck
+200,Snubbull
+201,Reshiram & Charizard GX
+202,Amoonguss
+203,Tapu Fini
+204,Necrozma
+205,Terrakion
+206,Pikachu
+207,Sudowoodo
+208,Vikavolt
+209,Stakataka
+210,Moltres & Zapdos & Articuno GX
+211,Charizard GX
+212,Gyarados GX
+213,Raichu GX
+214,Mewtwo
+215,Mew
+216,Porygon-Z GX
+217,Trevenant & Dusknoir GX
+218,Buzzwole
+219,Entei
+220,Phione
+221,Blacephalon
+222,Mismagius
+223,Terrakion
+224,Celebi
+225,Victini
+226,Charizard
+227,Pikachu
+228,Armored Mewtwo
+229,Venusaur & Snivy GX
+230,Charizard & Braixen GX
+231,Champions Festival
+232,Pikachu GX
+233,Eevee GX
+234,Pikachu
+235,Eevee
+236,Alolan Sandslash GX
+237,Leafeon
+238,Glaceon
+239,Carracosta GX
+240,Espeon & Deoxys GX
+241,Umbreon & Darkrai GX
+242,Eevee GX
+243,Regigigas
+244,Aipom
+245,Mismagius
+246,Sabrina & Brycen
+247,Reshiram & Charizard GX
+248,Pikachu & Zekrom GX
+Tornadus, Thundurus & Landorus
+Reshiram, Zekrom & Kyurem
+Raikou, Entei & Suicune

@@ -1,0 +1,195 @@
+1,Yanma
+2,Yanmega
+3,Celebi
+4,Cacnea
+5,Tropius
+6,Rowlet
+7,Dartrix
+8,Decidueye
+9,Dhelmise V
+10,Dhelmise VMAX
+11,Grookey
+12,Thwackey
+13,Rillaboom
+14,Gossifleur
+15,Eldegoss
+16,Zarude
+17,Reshiram
+18,Cinderace V
+19,Cinderace VMAX
+20,Horsea
+21,Kyogre
+22,Buizel
+23,Floatzel
+24,Manaphy
+25,Volcanion
+26,Chewtle
+27,Drednaw
+28,Cramorant
+29,Snom
+30,Frosmoth
+31,Shinx
+32,Luxio
+33,Luxray
+34,Rotom
+35,Morpeko
+36,Morpeko
+37,Morpeko V
+38,Morpeko VMAX
+39,Indeedee V
+40,Trapinch
+41,Koffing
+42,Galarian Weezing
+43,Spinarak
+44,Crobat V
+45,Crobat VMAX
+46,Yveltal
+47,Nickit
+48,Thievul
+49,Cufant
+50,Ditto V
+51,Ditto VMAX
+52,Eevee
+53,Greedent V
+54,Cramorant V
+55,Cramorant VMAX
+56,Indeedee
+57,Ball Guy
+58,Boss's Orders
+59,Gym Trainer
+60,Professor's Research
+61,Rusted Shield
+62,Rusted Sword
+63,Team Yell Towel
+64,Alcremie V
+65,Ball Guy
+66,Bird Keeper
+67,Cara Liss
+68,Gym Trainer
+69,Piers
+70,Poké Kid
+71,Rose
+72,Skyla
+73,Alcremie VMAX
+SV1,Rowlet
+SV2,Dartrix
+SV3,Decidueye
+SV4,Grookey
+SV5,Thwackey
+SV6,Rillaboom
+SV7,Blipbug
+SV8,Dottler
+SV9,Orbeetle
+SV10,Gossifleur
+SV11,Eldegoss
+SV12,Applin
+SV13,Flapple
+SV14,Appletun
+SV15,Scorbunny
+SV16,Raboot
+SV17,Cinderace
+SV18,Sizzlipede
+SV19,Centiskorch
+SV20,Galarian Mr. Mime
+SV21,Galarian Mr. Rime
+SV22,Suicune
+SV23,Galarian Darumaka
+SV24,Galarian Darmanitan
+SV25,Sobble
+SV26,Drizzile
+SV27,Inteleon
+SV28,Chewtle
+SV29,Drednaw
+SV30,Cramorant
+SV31,Arrokuda
+SV32,Barraskewda
+SV33,Snom
+SV34,Frosmoth
+SV35,Eiscue
+SV36,Dracovish
+SV37,Arctovish
+SV38,Rotom
+SV39,Yamper
+SV40,Boltund
+SV41,Toxel
+SV42,Toxtricity
+SV43,Pincurchin
+SV44,Morpeko
+SV45,Dracozolt
+SV46,Arctozolt
+SV47,Galarian Ponyta
+SV48,Galarian Rapidash
+SV49,Galarian Corsola
+SV50,Galarian Cursola
+SV51,Dedenne
+SV52,Sinistea
+SV53,Polteageist
+SV54,Hatenna
+SV55,Hattrem
+SV56,Hatterene
+SV57,Milcery
+SV58,Alcremie
+SV59,Indeedee
+SV60,Dreepy
+SV61,Drakloak
+SV62,Dragapult
+SV63,Galarian Farfetch'd
+SV64,Galarian Sirfetch'd
+SV65,Galarian Yamask
+SV66,Galarian Runerigus
+SV67,Rolycoly
+SV68,Carkol
+SV69,Coalossal
+SV70,Silicobra
+SV71,Sandaconda
+SV72,Clobbopus
+SV73,Grapploct
+SV74,Falinks
+SV75,Stonjourner
+SV76,Koffing
+SV77,Galarian Weezing
+SV78,Galarian Zigzagoon
+SV79,Galarian Linoone
+SV80,Galarian Obstagoon
+SV81,Nickit
+SV82,Thievul
+SV83,Impidimp
+SV84,Morgrem
+SV85,Grimmsnarl
+SV86,Galarian Meowth
+SV87,Galarian Perrserker
+SV88,Galarian Stunfisk
+SV89,Corviknight
+SV90,Cufant
+SV91,Copperajah
+SV92,Duraludon
+SV93,Minccino
+SV94,Cinccino
+SV95,Ducklett
+SV96,Swanna
+SV97,Bunnelby
+SV98,Oranguru
+SV99,Skwovet
+SV100,Greedent
+SV101,Rookidee
+SV102,Corvisquire
+SV103,Wooloo
+SV104,Dubwool
+SV105,Rillaboom V
+SV106,Rillaboom VMAX
+SV107,Charizard VMAX
+SV108,Centiskorch V
+SV109,Centiskorch VMAX
+SV110,Lapras V
+SV111,Lapras VMAX
+SV112,Toxtricity V
+SV113,Toxtricity VMAX
+SV114,Indeedee V
+SV115,Falinks V
+SV116,Grimmsnarl V
+SV117,Grimmsnarl VMAX
+SV118,Ditto V
+SV119,Ditto VMAX
+SV120,Dubwool V
+SV121,Eternatus V
+SV122,Eternatus VMAX

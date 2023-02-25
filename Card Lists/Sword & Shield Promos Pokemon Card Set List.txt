@@ -1,0 +1,302 @@
+1,Grookey
+2,Scorbunny
+3,Sobble
+4,Meowth V
+5,Meowth VMAX
+6,Rillaboom
+7,Frosmoth
+8,Galarian Perrserker
+9,Cinccino
+10,Gossifleur
+11,Wooloo
+12,Morpeko
+13,Galarian Ponyta
+14,Rillaboom V
+15,Cinderace V
+16,Inteleon V
+17,Toxtricity V
+18,Zacian V
+19,Zamazenta V
+20,Pikachu
+21,Polteageist V
+22,Flapple
+23,Luxray
+24,Coalossal
+25,Garbodor
+26,Mantine
+27,Noctowl
+28,Duraludon
+29,Rayquaza
+30,Copperajah V
+31,Morpeko
+32,Snorlax
+33,Zacian
+34,Zamazenta
+35,Decidueye
+36,Arctozolt
+37,Hydreigon
+38,Kangaskhan
+39,Pikachu
+40,Hatenna
+41,Flareon
+42,Eevee
+43,Galarian Sirfetch'd V
+44,Eternatus V
+45,Eternatus VMAX
+46,Eldegoss
+47,Drednaw
+48,Centiskorch
+49,Dubwool V
+50,Charizard V
+51,Lapras
+52,Gengar
+53,Machamp
+54,Coalossal
+55,Hatterene V
+56,Morpeko V
+57,Grimmsnarl V
+58,Alcremie
+59,Galarian Obstagoon
+60,Duraludon
+61,Pikachu V
+62,Pikachu VMAX
+63,Pikachu V
+64,Eternatus V
+65,Eevee V
+66,Charizard
+67,Donphan
+68,Snorlax
+69,Lugia
+70,Grookey
+71,Scorbunny
+72,Vaporeon
+73,Sobble
+74,Special Delivery Pikachu
+75,Special Delivery Charizard
+76,Zacian V
+77,Zamazenta V
+78,Orbeetle V
+79,Galarian Mr. Rime
+80,Dedenne
+81,Polteageist
+82,Bunnelby
+83,Alakazam V
+84,Eldegoss V
+85,Boltund V
+86,Cramorant V
+87,Eevee VMAX
+88,Cherrim
+89,Octillery
+90,Houndoom
+91,Bronzong
+92,Charmander
+93,Arrokuda
+94,Jolteon
+95,Eevee
+96,Dragapult V
+97,Dragapult VMAX
+98,Crobat V
+99,Crobat VMAX
+100,Venusaur V
+101,Blastoise V
+102,Venusaur VMAX
+103,Blastoise VMAX
+104,Victini V
+105,Gardevoir V
+106,Single Strike Urshifu V
+107,Rapid Strike Urshifu V
+108,Empoleon V
+109,Tyranitar V
+110,Crobat V
+111,Galarian Rapidash V
+112,Cinderace
+113,Inteleon
+114,Cresselia
+115,Passimian
+116,Morpeko
+117,Phanpy
+118,Eevee
+119,Snorlax
+120,Marnie
+121,Marnie
+122,Flaaffy
+123,Galarian Articuno
+124,Galarian Zapdos
+125,Galarian Moltres
+126,Galarian Slowpoke
+127,Eevee
+128,Eiscue
+129,Umbreon
+130,Ice Rider Calyrex V
+131,Shadow Rider Calyrex V
+132,Dragapult Prime
+133,Lance's Charizard V
+134,Dark Sylveon V
+135,Zacian Lv X
+136,Mimikyu δ
+137,Light Toxtricity
+138,Hydreigon C
+139,Pikachu V-UNION
+140,Pikachu V-UNION
+141,Pikachu V-UNION
+142,Pikachu V-UNION
+143,Pikachu V
+144,Greninja *
+145,Pikachu V
+146,Poke Ball
+147,Rayquaza V
+148,Noivern V
+149,Flareon V
+150,Vaporeon V
+151,Jolteon V
+152,Professor's Research (Professor Juniper)
+153,Pikachu
+154,Dragonite V
+155,Greninja V-Union
+156,Greninja V-Union
+157,Greninja V-Union
+158,Greninja V-Union
+159,Mewtwo V-Union
+160,Mewtwo V-Union
+161,Mewtwo V-Union
+162,Mewtwo V-Union
+163,Zacian V-Union
+164,Zacian V-Union
+165,Zacian V-Union
+166,Zacian V-Union
+167,Professor Burnet
+168,Oricorio
+169,Pyukumuku
+170,Deoxys
+171,Latias
+172,Tepig
+173,Blitzle
+174,Espeon
+175,Eevee
+176,Hoopa V
+177,Special Delivery Bidoof
+178,Professor's Research
+179,Flareon V
+180,Flareon VMAX
+181,Vaporeon V
+182,Vaporeon VMAX
+183,Jolteon V
+184,Jolteon VMAX
+185,Moltres
+186,Lucario
+187,Liepard
+188,Bibarel
+189,Flapple
+190,Eevee
+191,Leafeon
+192,Glaceon
+193,Galarian Obstagoon
+194,Leafeon V
+195,Leafeon VSTAR
+196,Glaceon V
+197,Glaceon VSTAR
+198,Pikachu V
+199,Lycanroc V
+200,Corviknight V
+201,Espeon V
+202,Sylveon V
+203,Umbreon V
+204,Arceus V
+205,Hisuian Basculegion
+206,Wyrdeer
+207,Hisuian Samurott
+208,Magnezone
+209,Toxel
+210,Oricorio
+211,Sylveon
+212,Eevee
+213,Lucario V
+214,Lucario VSTAR
+215,Morpeko V-UNION
+216,Morpeko V-UNION
+217,Morpeko V-UNION
+218,Morpeko V-UNION
+219,Boltund V
+220,Rowlet
+221,Cyndaquil
+222,Oshawott
+223,Mewtwo V
+224,Melmetal V
+225,Alolan Exeggutor V
+226,Spark
+227,Blanche
+228,Candela
+229,Mewtwo V
+230,Radiant Eevee
+231,Bulbasaur
+232,Charmander
+233,Squirtle
+234,Pikachu
+235,Dragonite V
+236,Dragonite VSTAR
+237,Hisuian Typhloshion V
+238,Hisuian Decidueye V
+239,Hisuian Samurott V
+240,Finneon
+241,Gengar
+242,Comfey
+243,Machamp
+244,Scorbunny
+245,Croagunk
+246,Weavile
+247,Regigigas
+248,Kleavor V
+249,Kleavor VSTAR
+250,Lumineon V
+251,Boss's Orders
+252,Infernape V
+253,Origin Forme Palkia V
+254,Origin Forme Palkia VSTAR
+255,Origin Forme Dialga V
+256,Origin Forme Dialga VSTAR
+257,Rotom V
+258,Gallade V
+259,Giratina V
+260,Charizard V
+261,Charizard VMAX
+262,Charizard VSTAR
+263,Zeraora V
+264,Zeraora VMAX
+265,Zeraora VSTAR
+266,Deoxys V
+267,Doexys VMAX
+268,Doexys VSTAR
+269,Sunflora
+270,Rapidash
+271,Kirlia
+272,Archeops
+273,Hisuian Basculin
+274,Cranidos
+275,Manaphy
+276,Togetic
+277,Rillaboom
+278,Cinderace
+279,Inteleon
+280,Regieleki V
+281,Regidrago V
+282,Galarian Articuno
+283,Galarian Zapdos
+284,Galarian Moltres
+285,Pikachu V
+286,Pikachu VMAX
+287,Morpeko V-UNION
+288,Morpeko V-UNION
+289,Morpeko V-UNION
+290,Morpeko V-UNION
+291,Lucario VSTAR
+292,Zacian V
+293,Zamazenta V
+294,Hisuian Electrode V
+295,Virizion V
+296,Champions Festival
+297,Hisuian Zoroark V
+298,Hisuian Zoroark VSTAR
+302,Klara
+303,Bulbasaur
+304,Arcanine
+305,Greninja

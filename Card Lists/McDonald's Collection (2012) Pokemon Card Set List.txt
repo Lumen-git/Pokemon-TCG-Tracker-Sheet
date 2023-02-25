@@ -1,0 +1,12 @@
+1,Servine
+2,Pansage
+3,Dwebble
+4,Pignite
+5,Dewott
+6,Emolga
+7,Woobat
+8,Drilbur
+9,Purrloin
+10,Scraggy
+11,Klang
+12,Axew

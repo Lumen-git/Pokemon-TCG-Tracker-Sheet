@@ -1,0 +1,25 @@
+1,Ho-Oh
+2,Lugia
+3,Pikachu
+4,Wobbuffet
+5,Hoothoot
+6,Noctowl
+7,Feraligatr
+8,Meganium
+9,Typhlosion
+10,Latias
+11,Latios
+12,Cleffa
+13,Smoochum
+14,Lapras
+15,Shuckle
+16,Plusle
+17,Minun
+18,Tropical Tidal Wave
+19,Raikou
+20,Entei
+21,Suicune
+22,Porygon
+23,Porygon2
+24,Hitmonchan
+25,Hitmonlee

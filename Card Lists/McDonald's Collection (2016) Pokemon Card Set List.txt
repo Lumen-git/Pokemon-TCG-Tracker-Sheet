@@ -1,0 +1,12 @@
+1,Vulpix
+2,Torchic
+3,Fennekin
+4,Magikarp
+5,Totodile
+6,Pikachu
+7,Scraggy
+8,Jigglypuff
+9,Togepi
+10,Dedenne
+11,Meowth
+12,Eevee

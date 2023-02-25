@@ -1,0 +1,114 @@
+1,Beedrill  (delta species)
+2,Crobat  (delta species)
+3,Dragonite  (delta species)
+4,Espeon  (delta species)
+5,Flareon  (delta species)
+6,Gardevoir (delta species)
+7,Jolteon  (delta species)
+8,Latias  (delta species)
+9,Latios  (delta species)
+10,Marowak  (delta species)
+11,Metagross  (delta species)
+12,Mewtwo  (delta species)
+13,Rayquaza  (delta species)
+14,Salamence  (delta species)
+15,Starmie  (delta species)
+16,Tyranitar  (delta species)
+17,Umbreon  (delta species)
+18,Vaporeon  (delta species)
+19,Azumarill  (delta species)
+20,Azurill
+21,Holon's Electrode
+22,Holon's Magneton
+23,Hypno
+24,Mightyena  (delta species)
+25,Porygon2
+26,Rain Castform
+27,Sandslash  (delta species)
+28,Slowking
+29,Snow-cloud Castform
+30,Starmie  (delta species)
+31,Sunny Castform
+32,Swellow
+33,Weezing
+34,Castform
+35,Ditto
+36,Ditto (Bulbasaur)
+37,Ditto (Charmander)
+38,Ditto (Mr. Mime)
+39,Ditto (Pikachu)
+40,Ditto (Squirtle)
+41,Dragonair  (delta species)
+42,Dragonair  (delta species)
+43,Golbat
+44,Hariyama
+45,Illumise
+46,Kakuna
+47,Kirlia
+48,Magneton
+49,Metang  (delta species)
+50,Persian
+51,Pupitar (delta species)
+52,Rapidash
+53,Shelgon  (delta species)
+54,Shelgon  (delta species)
+55,Skarmory
+56,Volbeat
+57,Bagon  (delta species)
+58,Bagon  (delta species)
+59,Beldum  (delta species)
+60,Cubone
+61,Ditto (Charmander)
+62,Ditto (Geodude)
+63,Ditto (Pikachu)
+64,Ditto (Squirtle)
+65,Dratini  (delta species)
+66,Dratini  (delta species)
+67,Drowzee
+68,Eevee  (delta species)
+69,Eevee
+70,Holon's Magnemite
+71,Holon's Voltorb
+72,Koffing
+73,Larvitar  (delta species)
+74,Magnemite
+75,Makuhita
+76,Marill
+77,Meowth
+78,Ponyta
+79,Poochyena
+80,Porygon
+81,Ralts
+82,Sandshrew
+83,Slowpoke
+84,Staryu
+85,Staryu
+86,Taillow
+87,Weedle
+88,Zubat
+89,Dual Ball
+90,Great Ball
+91,Holon Farmer
+92,Holon Lass
+93,Holon Mentor
+94,Holon Research Tower
+95,Holon Researcher
+96,Holon Ruins
+97,Holon Scientist
+98,Holon Transceiver
+99,Master Ball
+100,Super Scoop Up
+101,Potion
+102,Switch
+103,Darkness Energy
+104,Holon Energy FF
+105,Holon Energy GL
+106,Holon Energy WP
+107,Metal Energy
+108,Flareon ex
+109,Jolteon ex
+110,Vaporeon ex
+111,Groudon *
+112,Kyogre *
+113,Metagross *
+114,Azumarill

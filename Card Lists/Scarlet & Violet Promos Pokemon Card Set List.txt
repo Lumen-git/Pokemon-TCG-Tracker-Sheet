@@ -1,0 +1,9 @@
+1,Sprigatito
+2,Fuecoco
+3,Quaxly
+5,Quaquaval
+13,Miraidon
+14,Koraidon
+16,Ampharos ex
+17,Lucario ex
+35,Pawmi

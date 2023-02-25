@@ -1,0 +1,12 @@
+1,Caterpie
+2,Alolan Exeggutor
+3,Magmar
+4,Alolan Sandshrew
+5,Lapras
+6,Pikachu
+7,Gastly
+8,Mankey
+9,Onix
+10,Alolan Meowth
+11,Alolan Dugtrio
+12,Eevee
